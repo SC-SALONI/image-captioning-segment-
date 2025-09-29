@@ -6,5 +6,7 @@ Steps To Run the Project:
  5) there you can captioning and segmenting the image.
  6) And finally the project will execute successfully.
 <img width="1917" height="973" alt="Screenshot (308).png" src="C:\Users\Aspire\OneDrive\Desktop\image\Screenshot (308).png />
+
 This is the index page of the project and the below is the upload page of the project
-<img width="1917" height="974" alt="Screenshot (309).png" src="C:\Users\Aspire\OneDrive\Desktop\image\Screenshot (309).png />
+
+<img width="1917" height="974" alt="Screenshot (309).png" src="\Screenshot (309).png />
